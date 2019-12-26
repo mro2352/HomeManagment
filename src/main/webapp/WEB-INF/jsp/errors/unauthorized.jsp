@@ -7,6 +7,6 @@
     <title>Error 404:This is not the page you are looking for</title>
 </head>
 <body>
-    <img src="/media/404.png" alt="ERROR 404: This is not the page you are looking for">
+    <img src="/media/goaway.gif" alt="ERROR 401: You are not authorized for this page. It was nice to see you, now go away!">
 </body>
 </html>

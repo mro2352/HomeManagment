@@ -24,13 +24,20 @@ public class Errors implements ErrorController {
                 returnString = "errors/404";
             } else if (statusCode == HttpStatus.INTERNAL_SERVER_ERROR.value()) {
                 returnString = "errors/500";
+            } else if (statusCode == HttpStatus.UNAUTHORIZED.value()) {
+                returnString = "errors/unauthorized";
+            } else if (statusCode == HttpStatus.FORBIDDEN.value()) {
+
             }
         }
 
         return returnString;
     }
 
-
+    @RequestMapping("/unauthorized")
+    public String unauthorized() {
+        return "errors/unauthorized";
+    }
 
     @Override
     public String getErrorPath() {

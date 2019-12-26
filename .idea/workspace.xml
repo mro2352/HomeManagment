@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6895c50d-cde3-4aab-9b12-2ce912610746" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mro/controller/web/assets/AssetRootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mro/controller/web/cookbook/CookbookRootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mro/controller/web/inventory/InventoryRootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mro/controller/web/mealPlan/MealPlanRootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/assets/assetsIndex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/cookbook/cookbookIndex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/errors/unauthorized.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/inventory/inventoryIndex.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/mealplanning/mealplanningIndex.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/mro/controller/errors/Errors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mro/controller/errors/Errors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/errors/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/errors/500.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/media/404.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/media/404.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/media/goaway.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/media/goaway.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addAssetForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/assets/addAssetForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/errors/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/errors/404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/media/404.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/media/404.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/media/goaway.gif" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/media/goaway.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mro/controller/errors/Errors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mro/controller/errors/Errors.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +52,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/assets" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/src/main/resources/WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,7 +138,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/mro/controller/errors/Errors.java</url>
-          <line>36</line>
+          <line>43</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

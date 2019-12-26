@@ -1,4 +1,8 @@
+mro/controller/web/mealPlan/MealPlanRootController.class
+mro/controller/web/cookbook/CookbookRootController.class
 mro/controller/web/RootController.class
+mro/controller/web/assets/AssetRootController.class
 mro/controller/HomeManagementApp.class
 mro/Consts.class
+mro/controller/web/inventory/InventoryRootController.class
 mro/controller/errors/Errors.class
