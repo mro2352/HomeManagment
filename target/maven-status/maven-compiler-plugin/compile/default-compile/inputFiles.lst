@@ -1,2 +1,4 @@
 /home/matthew/IdeaProjects/HomeManagement/src/main/java/mro/controller/web/RootController.java
+/home/matthew/IdeaProjects/HomeManagement/src/main/java/mro/controller/errors/Errors.java
+/home/matthew/IdeaProjects/HomeManagement/src/main/java/mro/Consts.java
 /home/matthew/IdeaProjects/HomeManagement/src/main/java/mro/controller/HomeManagementApp.java

@@ -1,2 +1,4 @@
-mro/controller/HomeManagementApp.class
 mro/controller/web/RootController.class
+mro/controller/HomeManagementApp.class
+mro/Consts.class
+mro/controller/errors/Errors.class

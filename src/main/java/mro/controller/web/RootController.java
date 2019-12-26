@@ -19,6 +19,11 @@ public class RootController {
                 System.out.println("\tvalue:\t" + value);
             }
         }
-        return "welcome";
+        return "index";
+    }
+
+    @RequestMapping("/form")
+    public String addAssetForm() {
+        return "addAssetForm";
     }
 }
