@@ -30,6 +30,8 @@ public class Errors implements ErrorController {
         return returnString;
     }
 
+
+
     @Override
     public String getErrorPath() {
         return Consts.ERROR_MAPPING;

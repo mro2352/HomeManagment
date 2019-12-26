@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Error 500:Opps, my bad!</title>
+    <title>Error 500:Oops, my bad!</title>
 </head>
 <body>
     Error 500: Error has happened on our end. Error has been logged into the server. Please reload the page.
